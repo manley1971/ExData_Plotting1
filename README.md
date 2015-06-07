@@ -1,5 +1,9 @@
 ## Introduction
 
+One note: this work was done by Dave Manley. The Coursera course provided
+guidelines, data, and what the graphs should look like. I looked at 
+various internet code that made graphs in R and then wrote my code.
+
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
 Learning Repository</a>, a popular repository for machine learning
